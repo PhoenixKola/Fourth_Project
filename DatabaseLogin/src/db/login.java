@@ -14,6 +14,7 @@ import java.sql.*;
 
 public class login implements ActionListener {
 
+	// Projekt 4 i punuar nga Francesko Kola, Jozefina Blinishta, Valmir Lumaj, Ali Skuqaj dhe Jurgen Meti.
 
 	private static JLabel userLabel;
 	private static JTextField userText;
